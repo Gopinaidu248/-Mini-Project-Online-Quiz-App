@@ -66,14 +66,3 @@ Record user answers
 
 Calculate and print total score
 
-3️⃣ Main.java
-
-The main entry point — starts the quiz.
-
-Responsibilities:
-
-Create Quiz object
-
-Initialize sample questions
-
-Call start() method to begin the quiz
